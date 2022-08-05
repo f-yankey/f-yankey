@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more on OpenID connect and 0Auth2 protocol.
 - 💞️ I’m looking to collaborate on all projects under my interests.
 - 📫 How to reach me https://www.linkedin.com/in/francis-yankey-02b818b5/
-)
+
 
 <!---
 f-yankey/f-yankey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
